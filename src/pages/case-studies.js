@@ -2,12 +2,10 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 
-function Home() {
+function CaseStudies() {
   return (
-    <>
-    <h1>hi</h1>
-    </>
+    <div>case-studies</div>
   )
 }
 
-export default Home
+export default CaseStudies

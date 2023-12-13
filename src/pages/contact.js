@@ -1,13 +1,10 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-
-function Home() {
+function Contact() {
   return (
-    <>
-    <h1>hi</h1>
-    </>
+    <div>contact</div>
   )
 }
 
-export default Home
+export default Contact

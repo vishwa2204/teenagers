@@ -2,12 +2,10 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 
-function Home() {
+function Who_teenages() {
   return (
-    <>
-    <h1>hi</h1>
-    </>
+    <div>who-teenages</div>
   )
 }
 
-export default Home
+export default Who_teenages
