@@ -33,12 +33,15 @@ function Navbar() {
               <Link to={"contact"}><li>Contact</li></Link>
               <button className='nav-btn nav-close-btn' onClick={showNavbar}><IoCloseSharp /></button>
             </ul>
-           
+
+            
           </div>
          
           <button className='nav-btn nav-close-btn' onClick={showNavbar}><FaBars/></button>
+          
       </nav>
     </header>
+
     </>
   )
 }
